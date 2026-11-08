@@ -14,18 +14,18 @@ import { cn } from '@/lib/utils'
 /* ------------------------------------------------------------------ */
 
 const profile = {
-  initials: 'АМ',
-  name: 'Алексей Морозов',
+  initials: 'DJ',
+  name: 'Doodle Jay',
   role: 'Fullstack-разработчик · UI-инженер',
-  handle: 'alexmorozov',
+  handle: 'krutoi',
   location: 'Москва, Россия',
   workMode: 'Удалённо · гибрид',
   email: 'hello@example.com',
   phone: '+7 999 123-45-67',
-  telegram: '@alexmorozov',
-  github: 'github.com/alexmorozov',
-  telegramUrl: 'https://t.me/alexmorozov',
-  githubUrl: 'https://github.com/alexmorozov',
+  telegram: '@placeholder',
+  github: 'github.com/placeholder',
+  telegramUrl: 'https://t.me',
+  githubUrl: 'https://github.com',
 }
 
 type IconName = 'mail' | 'telegram' | 'github' | 'phone' | 'arrow' | 'pin'
